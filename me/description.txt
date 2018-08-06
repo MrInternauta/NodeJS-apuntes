@@ -1,0 +1,1 @@
+Calcula tu calificacion ponderada UV apartir de tus EE y creditos
